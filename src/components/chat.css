@@ -1,0 +1,29 @@
+.my-message-input{
+    background-color: skyblue;
+    border-radius: 25px;
+    height: 45px;
+    width: 100%;
+}
+
+.maindiv{
+    width:650px;
+     height:200px;
+}
+.custom-message{
+    border: 2px solid red;
+    border-radius: 25px;
+    font-size: 20px;
+     font-weight:bold ;
+}
+
+.custom-message-list{
+
+}
+
+@media screen and (max-width: 768px){
+    .maindiv{
+        width:350px;
+         height:200px;
+    }
+    
+}
